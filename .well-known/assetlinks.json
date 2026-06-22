@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mgeli995.habits",
+    "sha256_cert_fingerprints": ["0D:BB:A6:88:8A:12:5D:B8:D0:FA:B9:8C:33:8A:2B:10:2A:F6:4E:A3:8E:66:41:68:9C:2E:F5:D9:62:63:16:22"]
+  }
+}]
